@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "akshay": {
+    "Aditya": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/akshay",
+            "outputPath": "dist/Aditya",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -72,10 +72,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "akshay:build:production"
+              "buildTarget": "Aditya:build:production"
             },
             "development": {
-              "buildTarget": "akshay:build:development"
+              "buildTarget": "Aditya:build:development"
             }
           },
           "defaultConfiguration": "development"

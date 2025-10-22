@@ -7,7 +7,7 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://devakshay.vercel.app/</loc>
+    <loc>https://devAditya.vercel.app/</loc>
     <lastmod>2025-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -15,7 +15,7 @@
 
   <!-- Home Section -->
   <url>
-    <loc>https://devakshay.vercel.app/home</loc>
+    <loc>https://devAditya.vercel.app/home</loc>
     <lastmod>2025-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -23,7 +23,7 @@
 
   <!-- Projects / Portfolio -->
   <url>
-    <loc>https://devakshay.vercel.app/projects</loc>
+    <loc>https://devAditya.vercel.app/projects</loc>
     <lastmod>2025-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -31,7 +31,7 @@
 
   <!-- About / Resume -->
   <url>
-    <loc>https://devakshay.vercel.app/about</loc>
+    <loc>https://devAditya.vercel.app/about</loc>
     <lastmod>2025-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -39,7 +39,7 @@
 
   <!-- Blog or Articles -->
   <url>
-    <loc>https://devakshay.vercel.app/blog</loc>
+    <loc>https://devAditya.vercel.app/blog</loc>
     <lastmod>2025-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -47,7 +47,7 @@
 
   <!-- Contact Page -->
   <url>
-    <loc>https://devakshay.vercel.app/contact</loc>
+    <loc>https://devAditya.vercel.app/contact</loc>
     <lastmod>2025-09-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
