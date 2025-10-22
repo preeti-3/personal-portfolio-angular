@@ -9,33 +9,14 @@ import { Component } from '@angular/core';
 })
 export class TechToolsComponent {
 
-  tools: string = `I actively use a diverse set of cutting-edge technologies and tools in my daily work. From
-                modern frameworks and
-                languages to powerful platforms, my toolkit ensures high-quality and efficient development. 🚀 🌟`
+  tools: string = `I actively use a diverse set of cutting-edge technologies and tools in my daily work. From modern frameworks and languages to powerful platforms, my toolkit ensures high-quality and efficient development. 🚀 🌟`
+
   items: Array<any> = [
-    {
-      name: "Laravel",
-      description: 'Laravel is a PHP framework designed for building web applications. It follows the MVC pattern and offers robust tools for modern web development.',
-      link: 'https://laravel.com/',
-      image: 'assets/img/laravel.svg'
-    },
-    {
-      name: "PHP",
-      description: 'PHP is a popular general-purpose scripting language that is especially suited for web development.',
-      link: 'https://www.php.net/',
-      image: 'assets/img/php.svg'
-    },
     {
       name: "Angular",
       description: 'Angular is a platform and framework for building single-page client applications using HTML and TypeScript.',
       link: 'https://angular.io',
       image: 'assets/img/angular17.svg'
-    },
-    {
-      name: "Splade",
-      description: 'Splade provides a super easy way to build Single Page Applications (SPA) using standard Laravel Blade templates, enhanced with renderless Vue 3 components. ',
-      link: 'https://splade.dev/',
-      image: 'assets/img/splade.svg'
     },
     {
       name: "Tailwind CSS",
@@ -48,12 +29,6 @@ export class TechToolsComponent {
       description: 'Bootstrap is a popular open-source CSS framework for developing responsive and mobile-first websites.',
       link: 'https://getbootstrap.com/',
       image: 'assets/img/bootstrap.svg'
-    },
-    {
-      name: "Flowbite",
-      description: 'Flowbite is a popular UI component library designed for Tailwind CSS, providing a set of accessible and customizable components for building modern web applications.',
-      link: 'https://flowbite.com/',
-      image: 'assets/img/flowbite.svg'
     },
     {
       name: "HTML5",
@@ -122,12 +97,6 @@ export class TechToolsComponent {
       image: 'assets/img/postman.svg'
     },
     {
-      name: "ApiDog",
-      description: 'ApiDog offers tools and services for testing and monitoring APIs to ensure their functionality and performance.',
-      link: 'https://apidog.com/',
-      image: 'assets/img/apidog-icon.svg'
-    },
-    {
       name: "AWS",
       description: 'Amazon Web Services (AWS) offers a comprehensive suite of cloud services for computing, storage, and networking.',
       link: 'https://aws.amazon.com/',
@@ -164,12 +133,6 @@ export class TechToolsComponent {
       image: 'assets/img/atlassian.svg'
     },
     {
-      name: "Spatie",
-      description: 'Spatie is a web development company that provides a wide range of open-source packages for Laravel and other PHP projects.',
-      link: 'https://spatie.be/',
-      image: 'assets/img/spatie.svg'
-    }, 
-    {
       name: "Vercel",
       description: 'Vercel provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web',
       link: 'https://vercel.com',
@@ -194,40 +157,10 @@ export class TechToolsComponent {
       image: 'assets/img/ninja.png'
     },
     {
-      name: "Laravel Reverb",
-      description: 'Reverb is a first-party WebSocket server for Laravel applications, bringing real-time communication between client and server directly to your fingertips.',
-      link: 'https://reverb.laravel.com/',
-      image: 'assets/img/reverb.svg'
-    },
-    {
-      name: "Laravel Pulse",
-      description: 'Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application. ',
-      link: 'https://pulse.laravel.com/',
-      image: 'assets/img/pulse.svg'
-    },
-    {
       name: "Contentful",
       description: 'Contentful is a cloud-based content management system (CMS) that allows users to create, store, and manage content for websites, mobile apps, and other platforms. ',
       link: 'https://www.contentful.com/',
       image: 'assets/img/contentful.png'
-    },
-    {
-      name: "Daily.Dev",
-      description: 'Daily.dev is a professional network for developers, designed to help them improve their skills, collaborate with like-minded individuals, and grow within the developer community. ',
-      link: 'https://daily.dev',
-      image: 'assets/img/dailydev.svg'
-    },
-    {
-      name: "Microsoft Loop",
-      description: 'Loop is a note-taking platform that helps users organize, collaborate, and manage their notes efficiently.',
-      link: 'https://loop.cloud.microsoft/learn',
-      image: 'assets/img/loop.svg'
-    },
-    {
-      name: "Affine",
-      description: 'AFFiNE is an open-source, all-in-one workspace that combines the features of note-taking, project management, and collaboration tools like Notion',
-      link: 'https://affine.pro',
-      image: 'assets/img/affine.svg'
     },
     {
       name: "Docker",
